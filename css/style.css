@@ -1,0 +1,32 @@
+.nav-item a {
+    text-transform: uppercase;
+}
+.navbar-brand{
+    font-size: 30px;
+  
+    
+}
+.first-header{
+    margin-top: 50px;
+  
+}
+h2 span{
+    color: #608266;
+}
+.icone-header{
+  
+
+}
+
+.second-header{
+    background-color: #fff;
+   
+}
+.imagem-java{
+    
+    background-color: red;
+}
+.placido{
+    height: 200px;
+    width: 200px;
+}
