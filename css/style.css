@@ -30,9 +30,9 @@ h2 span{
     height: 200px;
     width: 200px;
 }
-@media screen and (max-width: 562px){
+@media screen and (max-width: 361px){
     .icone-header{
-        margin-left: -15px;
+        
     }
 }
 @media screen and (max-width: 420px){
