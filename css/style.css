@@ -30,3 +30,18 @@ h2 span{
     height: 200px;
     width: 200px;
 }
+@media screen and (max-width: 562px){
+    .icone-header{
+        margin-left: -15px;
+    }
+}
+@media screen and (max-width: 420px){
+    jumbotron{
+        width: 100%;
+    }
+    .icone-header{
+        height: 350px;
+        width: 350px;
+        margin-left: -18px;
+    }
+}
