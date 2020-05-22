@@ -1,3 +1,6 @@
+html{
+    scroll-behavior: smooth;
+}
 .nav-item a {
     text-transform: uppercase;
 }
